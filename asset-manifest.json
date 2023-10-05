@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Exercise-1/static/css/main.deeba4c7.css",
-    "main.js": "/React-Exercise-1/static/js/main.3f964b53.js",
+    "main.js": "/React-Exercise-1/static/js/main.996d3f77.js",
     "static/js/787.6f05a3b7.chunk.js": "/React-Exercise-1/static/js/787.6f05a3b7.chunk.js",
     "static/media/components.png": "/React-Exercise-1/static/media/components.94774721658e0df179c1.png",
     "static/media/key-concepts.png": "/React-Exercise-1/static/media/key-concepts.cad1aa0bf208c387aa98.png",
@@ -10,11 +10,11 @@
     "static/media/logo.svg": "/React-Exercise-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-Exercise-1/index.html",
     "main.deeba4c7.css.map": "/React-Exercise-1/static/css/main.deeba4c7.css.map",
-    "main.3f964b53.js.map": "/React-Exercise-1/static/js/main.3f964b53.js.map",
+    "main.996d3f77.js.map": "/React-Exercise-1/static/js/main.996d3f77.js.map",
     "787.6f05a3b7.chunk.js.map": "/React-Exercise-1/static/js/787.6f05a3b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.deeba4c7.css",
-    "static/js/main.3f964b53.js"
+    "static/js/main.996d3f77.js"
   ]
 }
