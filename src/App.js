@@ -8,18 +8,21 @@ import Concepts from "./components/Concepts";
 
 const concepts = [
   {
+    id: 1,
     title: "Components",
     image: componentsImage,
     description:
       "Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Components can receive data via props, and they can render dynamic output using JSX.",
   },
   {
+    id: 2,
     title: "State",
     image: stateImage,
     description:
       "State is data that may change over time. As it changes, the UI should be updated to reflect the updated data. Each component can maintain its own state and multiple components can share state.",
   },
   {
+    id: 3,
     title: "Events",
     image: eventsImage,
     description:
